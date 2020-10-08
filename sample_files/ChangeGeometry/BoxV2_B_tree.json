@@ -1,0 +1,43 @@
+{
+  "data": {
+    "type": "objects",
+    "objects": [
+      {
+        "objectid": 1,
+        "name": "BoxV2",
+        "objects": [
+          {
+            "objectid": 2,
+            "name": "BoxV2",
+            "objects": [
+              {
+                "objectid": 3,
+                "name": "Body1"
+              },
+              {
+                "objectid": 4,
+                "name": "Body2"
+              },
+              {
+                "objectid": 5,
+                "name": "Body4"
+              },
+              {
+                "objectid": 6,
+                "name": "Body3"
+              },
+              {
+                "objectid": 7,
+                "name": "Body5"
+              },
+              {
+                "objectid": 8,
+                "name": "Body7"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

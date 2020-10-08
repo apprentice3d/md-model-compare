@@ -1,0 +1,117 @@
+{
+  "data": {
+    "type": "properties",
+    "collection": [
+      {
+        "objectid": 1,
+        "name": "BoxV2",
+        "externalId": "[\"Qm94VjJfQS5mM2Q=\"]",
+        "properties": {
+          "Name": "BoxV2"
+        }
+      },
+      {
+        "objectid": 2,
+        "name": "BoxV2",
+        "externalId": "[\"eyJhc3NldCI6ImU3OGQ1MWVmLTI0YTUtNGZhZS1hZjI4LTA3OTA0YTBjY2EyMCIsImVudGl0eSI6IjMiLCJleHRyYSI6IiIsInNlZ21lbnQiOiIwIn0=\"]",
+        "properties": {
+          "Area": "287600.000 mm^2",
+          "Component Appearance": "Pine (1)",
+          "Component Name": "BoxV2",
+          "Mass": "702.148 g",
+          "Material": "Pine",
+          "Name": "BoxV2",
+          "Volume": "1231000.000 mm^3",
+          "File Properties": {
+            "Part Number": "BoxV2",
+            "Title": "BoxV2"
+          }
+        }
+      },
+      {
+        "objectid": 3,
+        "name": "Body1",
+        "externalId": "[\"eyJhc3NldCI6ImU3OGQ1MWVmLTI0YTUtNGZhZS1hZjI4LTA3OTA0YTBjY2EyMCIsImVudGl0eSI6IjMiLCJleHRyYSI6IiIsInNlZ21lbnQiOiIwIn0=\",\"eyJhc3NldCI6ImU3OGQ1MWVmLTI0YTUtNGZhZS1hZjI4LTA3OTA0YTBjY2EyMCIsImVudGl0eSI6IjM0MSIsImV4dHJhIjoiIiwic2VnbWVudCI6IjAifQ==\"]",
+        "properties": {
+          "Appearance": "Pine",
+          "Area": "61800.000 mm^2",
+          "Density": "0.001 g / mm^3",
+          "Mass": "153.969 g",
+          "Material": "Pine",
+          "Name": "Body1",
+          "Volume": "270000.000 mm^3"
+        }
+      },
+      {
+        "objectid": 4,
+        "name": "Body2",
+        "externalId": "[\"eyJhc3NldCI6ImU3OGQ1MWVmLTI0YTUtNGZhZS1hZjI4LTA3OTA0YTBjY2EyMCIsImVudGl0eSI6IjMiLCJleHRyYSI6IiIsInNlZ21lbnQiOiIwIn0=\",\"eyJhc3NldCI6ImU3OGQ1MWVmLTI0YTUtNGZhZS1hZjI4LTA3OTA0YTBjY2EyMCIsImVudGl0eSI6IjM4NCIsImV4dHJhIjoiIiwic2VnbWVudCI6IjAifQ==\"]",
+        "properties": {
+          "Appearance": "Pine",
+          "Area": "19640.000 mm^2",
+          "Density": "0.001 g / mm^3",
+          "Mass": "34.215 g",
+          "Material": "Pine",
+          "Name": "Body2",
+          "Volume": "60000.000 mm^3"
+        }
+      },
+      {
+        "objectid": 5,
+        "name": "Body4",
+        "externalId": "[\"eyJhc3NldCI6ImU3OGQ1MWVmLTI0YTUtNGZhZS1hZjI4LTA3OTA0YTBjY2EyMCIsImVudGl0eSI6IjMiLCJleHRyYSI6IiIsInNlZ21lbnQiOiIwIn0=\",\"eyJhc3NldCI6ImU3OGQ1MWVmLTI0YTUtNGZhZS1hZjI4LTA3OTA0YTBjY2EyMCIsImVudGl0eSI6IjQ4OCIsImV4dHJhIjoiIiwic2VnbWVudCI6IjAifQ==\"]",
+        "properties": {
+          "Appearance": "Pine",
+          "Area": "99000.000 mm^2",
+          "Density": "0.001 g / mm^3",
+          "Mass": "256.616 g",
+          "Material": "Pine",
+          "Name": "Body4",
+          "Volume": "450000.000 mm^3"
+        }
+      },
+      {
+        "objectid": 6,
+        "name": "Body3",
+        "externalId": "[\"eyJhc3NldCI6ImU3OGQ1MWVmLTI0YTUtNGZhZS1hZjI4LTA3OTA0YTBjY2EyMCIsImVudGl0eSI6IjMiLCJleHRyYSI6IiIsInNlZ21lbnQiOiIwIn0=\",\"eyJhc3NldCI6ImU3OGQ1MWVmLTI0YTUtNGZhZS1hZjI4LTA3OTA0YTBjY2EyMCIsImVudGl0eSI6IjQ2OCIsImV4dHJhIjoiIiwic2VnbWVudCI6IjAifQ==\"]",
+        "properties": {
+          "Appearance": "Pine",
+          "Area": "33540.000 mm^2",
+          "Density": "0.001 g / mm^3",
+          "Mass": "81.628 g",
+          "Material": "Pine",
+          "Name": "Body3",
+          "Volume": "143100.000 mm^3"
+        }
+      },
+      {
+        "objectid": 7,
+        "name": "Body5",
+        "externalId": "[\"eyJhc3NldCI6ImU3OGQ1MWVmLTI0YTUtNGZhZS1hZjI4LTA3OTA0YTBjY2EyMCIsImVudGl0eSI6IjMiLCJleHRyYSI6IiIsInNlZ21lbnQiOiIwIn0=\",\"eyJhc3NldCI6ImU3OGQ1MWVmLTI0YTUtNGZhZS1hZjI4LTA3OTA0YTBjY2EyMCIsImVudGl0eSI6IjU1MSIsImV4dHJhIjoiIiwic2VnbWVudCI6IjAifQ==\"]",
+        "properties": {
+          "Appearance": "Pine",
+          "Area": "33540.000 mm^2",
+          "Density": "0.001 g / mm^3",
+          "Mass": "81.628 g",
+          "Material": "Pine",
+          "Name": "Body5",
+          "Volume": "143100.000 mm^3"
+        }
+      },
+      {
+        "objectid": 8,
+        "name": "Body7",
+        "externalId": "[\"eyJhc3NldCI6ImU3OGQ1MWVmLTI0YTUtNGZhZS1hZjI4LTA3OTA0YTBjY2EyMCIsImVudGl0eSI6IjMiLCJleHRyYSI6IiIsInNlZ21lbnQiOiIwIn0=\",\"eyJhc3NldCI6ImU3OGQ1MWVmLTI0YTUtNGZhZS1hZjI4LTA3OTA0YTBjY2EyMCIsImVudGl0eSI6Ijc1MiIsImV4dHJhIjoiIiwic2VnbWVudCI6IjAifQ==\"]",
+        "properties": {
+          "Appearance": "Pine",
+          "Area": "40100.000 mm^2",
+          "Density": "0.001 g / mm^3",
+          "Mass": "94.092 g",
+          "Material": "Pine",
+          "Name": "Body7",
+          "Volume": "165000.000 mm^3"
+        }
+      }
+    ]
+  }
+}

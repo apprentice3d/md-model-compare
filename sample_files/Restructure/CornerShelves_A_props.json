@@ -1,0 +1,104 @@
+{
+  "data": {
+    "type": "properties",
+    "collection": [
+      {
+        "objectid": 1,
+        "name": "CornerShelvesTMP",
+        "externalId": "[\"Q29ybmVyU2hlbHZlc19BMi5mM2Q=\"]",
+        "properties": {
+          "Name": "CornerShelvesTMP"
+        }
+      },
+      {
+        "objectid": 2,
+        "name": "CornerShelvesTMP",
+        "externalId": "[\"eyJhc3NldCI6IjZmOTFmODdlLWEzNDgtNGFiZC1hZTUyLTcyYzE5NzhjNjg1YSIsImVudGl0eSI6IjMiLCJleHRyYSI6IiIsInNlZ21lbnQiOiIwIn0=\"]",
+        "properties": {
+          "Area": "353100.000 mm^2",
+          "Component Appearance": "Pine (1)",
+          "Component Name": "CornerShelvesTMP",
+          "Mass": "903.904 g",
+          "Material": "Pine",
+          "Name": "CornerShelvesTMP",
+          "Volume": "1585000.000 mm^3",
+          "File Properties": {
+            "Part Number": "CornerShelvesTMP",
+            "Title": "CornerShelvesTMP"
+          }
+        }
+      },
+      {
+        "objectid": 3,
+        "name": "Bottom",
+        "externalId": ["eyJhc3NldCI6IjZmOTFmODdlLWEzNDgtNGFiZC1hZTUyLTcyYzE5NzhjNjg1YSIsImVudGl0eSI6IjMiLCJleHRyYSI6IiIsInNlZ21lbnQiOiIwIn0=",
+                        "eyJhc3NldCI6IjZmOTFmODdlLWEzNDgtNGFiZC1hZTUyLTcyYzE5NzhjNjg1YSIsImVudGl0eSI6IjI1OCIsImV4dHJhIjoiIiwic2VnbWVudCI6IjAifQ=="],
+        "properties": {
+          "Appearance": "Pine",
+          "Area": "76770.000 mm^2",
+          "Density": "0.001 g / mm^3",
+          "Mass": "197.515 g",
+          "Material": "Pine",
+          "Name": "Bottom",
+          "Volume": "346400.000 mm^3"
+        }
+      },
+      {
+        "objectid": 4,
+        "name": "RightSide",
+        "externalId": "[\"eyJhc3NldCI6IjZmOTFmODdlLWEzNDgtNGFiZC1hZTUyLTcyYzE5NzhjNjg1YSIsImVudGl0eSI6IjMiLCJleHRyYSI6IiIsInNlZ21lbnQiOiIwIn0=\",\"eyJhc3NldCI6IjZmOTFmODdlLWEzNDgtNGFiZC1hZTUyLTcyYzE5NzhjNjg1YSIsImVudGl0eSI6IjM5MyIsImV4dHJhIjoiIiwic2VnbWVudCI6IjAifQ==\"]",
+        "properties": {
+          "Appearance": "Pine",
+          "Area": "61400.000 mm^2",
+          "Density": "0.001 g / mm^3",
+          "Mass": "155.680 g",
+          "Material": "Pine",
+          "Name": "RightSide",
+          "Volume": "273000.000 mm^3"
+        }
+      },
+      {
+        "objectid": 5,
+        "name": "Middle",
+        "externalId": "[\"eyJhc3NldCI6IjZmOTFmODdlLWEzNDgtNGFiZC1hZTUyLTcyYzE5NzhjNjg1YSIsImVudGl0eSI6IjMiLCJleHRyYSI6IiIsInNlZ21lbnQiOiIwIn0=\",\"eyJhc3NldCI6IjZmOTFmODdlLWEzNDgtNGFiZC1hZTUyLTcyYzE5NzhjNjg1YSIsImVudGl0eSI6IjQzNiIsImV4dHJhIjoiIiwic2VnbWVudCI6IjAifQ==\"]",
+        "properties": {
+          "Appearance": "Pine",
+          "Area": "76770.000 mm^2",
+          "Density": "0.001 g / mm^3",
+          "Mass": "197.515 g",
+          "Material": "Pine",
+          "Name": "Middle",
+          "Volume": "346400.000 mm^3"
+        }
+      },
+      {
+        "objectid": 6,
+        "name": "LeftSide",
+        "externalId": "[\"eyJhc3NldCI6IjZmOTFmODdlLWEzNDgtNGFiZC1hZTUyLTcyYzE5NzhjNjg1YSIsImVudGl0eSI6IjMiLCJleHRyYSI6IiIsInNlZ21lbnQiOiIwIn0=\",\"eyJhc3NldCI6IjZmOTFmODdlLWEzNDgtNGFiZC1hZTUyLTcyYzE5NzhjNjg1YSIsImVudGl0eSI6IjQ4OCIsImV4dHJhIjoiIiwic2VnbWVudCI6IjAifQ==\"]",
+        "properties": {
+          "Appearance": "Pine",
+          "Area": "61400.000 mm^2",
+          "Density": "0.001 g / mm^3",
+          "Mass": "155.680 g",
+          "Material": "Pine",
+          "Name": "LeftSide",
+          "Volume": "273000.000 mm^3"
+        }
+      },
+      {
+        "objectid": 7,
+        "name": "Top",
+        "externalId": "[\"eyJhc3NldCI6IjZmOTFmODdlLWEzNDgtNGFiZC1hZTUyLTcyYzE5NzhjNjg1YSIsImVudGl0eSI6IjMiLCJleHRyYSI6IiIsInNlZ21lbnQiOiIwIn0=\",\"eyJhc3NldCI6IjZmOTFmODdlLWEzNDgtNGFiZC1hZTUyLTcyYzE5NzhjNjg1YSIsImVudGl0eSI6IjU0OCIsImV4dHJhIjoiIiwic2VnbWVudCI6IjAifQ==\"]",
+        "properties": {
+          "Appearance": "Pine",
+          "Area": "76770.000 mm^2",
+          "Density": "0.001 g / mm^3",
+          "Mass": "197.515 g",
+          "Material": "Pine",
+          "Name": "Top",
+          "Volume": "346400.000 mm^3"
+        }
+      }
+    ]
+  }
+}

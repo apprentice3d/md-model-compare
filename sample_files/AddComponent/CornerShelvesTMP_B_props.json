@@ -1,0 +1,148 @@
+{
+  "data": {
+    "type": "properties",
+    "collection": [
+      {
+        "objectid": 1,
+        "name": "CornerShelvesTMP",
+        "externalId": "[\"Q29ybmVyU2hlbHZlc1RNUF9CLmYzZA==\"]",
+        "properties": {
+          "Name": "CornerShelvesTMP"
+        }
+      },
+      {
+        "objectid": 2,
+        "name": "CornerShelvesTMP",
+        "externalId": "[\"eyJhc3NldCI6IjZmOTFmODdlLWEzNDgtNGFiZC1hZTUyLTcyYzE5NzhjNjg1YSIsImVudGl0eSI6IjMiLCJleHRyYSI6IiIsInNlZ21lbnQiOiIwIn0=\"]",
+        "properties": {
+          "Component Appearance": "Pine (1)",
+          "Component Name": "CornerShelvesTMP",
+          "Material": "Pine",
+          "Name": "CornerShelvesTMP",
+          "File Properties": {
+            "Part Number": "CornerShelvesTMP",
+            "Title": "CornerShelvesTMP"
+          }
+        }
+      },
+      {
+        "objectid": 3,
+        "name": "Shelves:1",
+        "externalId": "[\"eyJhc3NldCI6IjZmOTFmODdlLWEzNDgtNGFiZC1hZTUyLTcyYzE5NzhjNjg1YSIsImVudGl0eSI6IjMiLCJleHRyYSI6IiIsInNlZ21lbnQiOiIwIn0=\",\"eyJhc3NldCI6IjZmOTFmODdlLWEzNDgtNGFiZC1hZTUyLTcyYzE5NzhjNjg1YSIsImVudGl0eSI6IjYyMyIsImV4dHJhIjoiIiwic2VnbWVudCI6IjAifQ==\"]",
+        "properties": {
+          "Area": "230300.000 mm^2",
+          "Component Name": "Shelves",
+          "Mass": "592.544 g",
+          "Material": "Pine",
+          "Name": "Shelves:1",
+          "Volume": "1039000.000 mm^3",
+          "File Properties": {
+            "Part Number": "Shelves",
+            "Title": "Shelves"
+          }
+        }
+      },
+      {
+        "objectid": 4,
+        "name": "Bottom",
+        "externalId": "[\"eyJhc3NldCI6IjZmOTFmODdlLWEzNDgtNGFiZC1hZTUyLTcyYzE5NzhjNjg1YSIsImVudGl0eSI6IjMiLCJleHRyYSI6IiIsInNlZ21lbnQiOiIwIn0=\",\"eyJhc3NldCI6IjZmOTFmODdlLWEzNDgtNGFiZC1hZTUyLTcyYzE5NzhjNjg1YSIsImVudGl0eSI6IjYyMyIsImV4dHJhIjoiIiwic2VnbWVudCI6IjAifQ==\",\"eyJhc3NldCI6IjZmOTFmODdlLWEzNDgtNGFiZC1hZTUyLTcyYzE5NzhjNjg1YSIsImVudGl0eSI6Ijc1NyIsImV4dHJhIjoiIiwic2VnbWVudCI6IjAifQ==\"]",
+        "properties": {
+          "Appearance": "Pine",
+          "Area": "76770.000 mm^2",
+          "Density": "0.001 g / mm^3",
+          "Mass": "197.515 g",
+          "Material": "Pine",
+          "Name": "Bottom",
+          "Volume": "346400.000 mm^3"
+        }
+      },
+      {
+        "objectid": 5,
+        "name": "Middle",
+        "externalId": "[\"eyJhc3NldCI6IjZmOTFmODdlLWEzNDgtNGFiZC1hZTUyLTcyYzE5NzhjNjg1YSIsImVudGl0eSI6IjMiLCJleHRyYSI6IiIsInNlZ21lbnQiOiIwIn0=\",\"eyJhc3NldCI6IjZmOTFmODdlLWEzNDgtNGFiZC1hZTUyLTcyYzE5NzhjNjg1YSIsImVudGl0eSI6IjYyMyIsImV4dHJhIjoiIiwic2VnbWVudCI6IjAifQ==\",\"eyJhc3NldCI6IjZmOTFmODdlLWEzNDgtNGFiZC1hZTUyLTcyYzE5NzhjNjg1YSIsImVudGl0eSI6Ijc2OCIsImV4dHJhIjoiIiwic2VnbWVudCI6IjAifQ==\"]",
+        "properties": {
+          "Appearance": "Pine",
+          "Area": "76770.000 mm^2",
+          "Density": "0.001 g / mm^3",
+          "Mass": "197.515 g",
+          "Material": "Pine",
+          "Name": "Middle",
+          "Volume": "346400.000 mm^3"
+        }
+      },
+      {
+        "objectid": 6,
+        "name": "Top",
+        "externalId": "[\"eyJhc3NldCI6IjZmOTFmODdlLWEzNDgtNGFiZC1hZTUyLTcyYzE5NzhjNjg1YSIsImVudGl0eSI6IjMiLCJleHRyYSI6IiIsInNlZ21lbnQiOiIwIn0=\",\"eyJhc3NldCI6IjZmOTFmODdlLWEzNDgtNGFiZC1hZTUyLTcyYzE5NzhjNjg1YSIsImVudGl0eSI6IjYyMyIsImV4dHJhIjoiIiwic2VnbWVudCI6IjAifQ==\",\"eyJhc3NldCI6IjZmOTFmODdlLWEzNDgtNGFiZC1hZTUyLTcyYzE5NzhjNjg1YSIsImVudGl0eSI6Ijk5NCIsImV4dHJhIjoiIiwic2VnbWVudCI6IjAifQ==\"]",
+        "properties": {
+          "Appearance": "Pine",
+          "Area": "76770.000 mm^2",
+          "Density": "0.001 g / mm^3",
+          "Mass": "197.515 g",
+          "Material": "Pine",
+          "Name": "Top",
+          "Volume": "346400.000 mm^3"
+        }
+      },
+      {
+        "objectid": 7,
+        "name": "Sides:1",
+        "externalId": "[\"eyJhc3NldCI6IjZmOTFmODdlLWEzNDgtNGFiZC1hZTUyLTcyYzE5NzhjNjg1YSIsImVudGl0eSI6IjMiLCJleHRyYSI6IiIsInNlZ21lbnQiOiIwIn0=\",\"eyJhc3NldCI6IjZmOTFmODdlLWEzNDgtNGFiZC1hZTUyLTcyYzE5NzhjNjg1YSIsImVudGl0eSI6IjgzMyIsImV4dHJhIjoiIiwic2VnbWVudCI6IjAifQ==\"]",
+        "properties": {
+          "Area": "184200.000 mm^2",
+          "Component Name": "Sides",
+          "Mass": "467.041 g",
+          "Material": "Pine",
+          "Name": "Sides:1",
+          "Volume": "819000.000 mm^3",
+          "File Properties": {
+            "Part Number": "Sides",
+            "Title": "Sides"
+          }
+        }
+      },
+      {
+        "objectid": 8,
+        "name": "LeftSide",
+        "externalId": "[\"eyJhc3NldCI6IjZmOTFmODdlLWEzNDgtNGFiZC1hZTUyLTcyYzE5NzhjNjg1YSIsImVudGl0eSI6IjMiLCJleHRyYSI6IiIsInNlZ21lbnQiOiIwIn0=\",\"eyJhc3NldCI6IjZmOTFmODdlLWEzNDgtNGFiZC1hZTUyLTcyYzE5NzhjNjg1YSIsImVudGl0eSI6IjgzMyIsImV4dHJhIjoiIiwic2VnbWVudCI6IjAifQ==\",\"eyJhc3NldCI6IjZmOTFmODdlLWEzNDgtNGFiZC1hZTUyLTcyYzE5NzhjNjg1YSIsImVudGl0eSI6IjkzMCIsImV4dHJhIjoiIiwic2VnbWVudCI6IjAifQ==\"]",
+        "properties": {
+          "Appearance": "Pine",
+          "Area": "61400.000 mm^2",
+          "Density": "0.001 g / mm^3",
+          "Mass": "155.680 g",
+          "Material": "Pine",
+          "Name": "LeftSide",
+          "Volume": "273000.000 mm^3"
+        }
+      },
+      {
+        "objectid": 9,
+        "name": "RightSide",
+        "externalId": "[\"eyJhc3NldCI6IjZmOTFmODdlLWEzNDgtNGFiZC1hZTUyLTcyYzE5NzhjNjg1YSIsImVudGl0eSI6IjMiLCJleHRyYSI6IiIsInNlZ21lbnQiOiIwIn0=\",\"eyJhc3NldCI6IjZmOTFmODdlLWEzNDgtNGFiZC1hZTUyLTcyYzE5NzhjNjg1YSIsImVudGl0eSI6IjgzMyIsImV4dHJhIjoiIiwic2VnbWVudCI6IjAifQ==\",\"eyJhc3NldCI6IjZmOTFmODdlLWEzNDgtNGFiZC1hZTUyLTcyYzE5NzhjNjg1YSIsImVudGl0eSI6IjEwNDkiLCJleHRyYSI6IiIsInNlZ21lbnQiOiIwIn0=\"]",
+        "properties": {
+          "Appearance": "Pine",
+          "Area": "61400.000 mm^2",
+          "Density": "0.001 g / mm^3",
+          "Mass": "155.680 g",
+          "Material": "Pine",
+          "Name": "RightSide",
+          "Volume": "273000.000 mm^3"
+        }
+      },
+      {
+        "objectid": 10,
+        "name": "RightSide2",
+        "externalId": "[\"eyJhc3NldCI6IjZmOTFmODdlLWEzNDgtNGFiZC1hZTUyLTcyYzE5NzhjNjg1YSIsImVudGl0eSI6IjMiLCJleHRyYSI6IiIsInNlZ21lbnQiOiIwIn0=\",\"eyJhc3NldCI6IjZmOTFmODdlLWEzNDgtNGFiZC1hZTUyLTcyYzE5NzhjNjg1YSIsImVudGl0eSI6IjgzMyIsImV4dHJhIjoiIiwic2VnbWVudCI6IjAifQ==\",\"eyJhc3NldCI6IjZmOTFmODdlLWEzNDgtNGFiZC1hZTUyLTcyYzE5NzhjNjg1YSIsImVudGl0eSI6IjExNjIiLCJleHRyYSI6IiIsInNlZ21lbnQiOiIwIn0=\"]",
+        "properties": {
+          "Appearance": "Pine",
+          "Area": "61400.000 mm^2",
+          "Density": "0.001 g / mm^3",
+          "Mass": "155.680 g",
+          "Material": "Pine",
+          "Name": "RightSide2",
+          "Volume": "273000.000 mm^3"
+        }
+      }
+    ]
+  }
+}

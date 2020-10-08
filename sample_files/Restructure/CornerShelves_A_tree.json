@@ -1,0 +1,39 @@
+{
+  "data": {
+    "type": "objects",
+    "objects": [
+      {
+        "objectid": 1,
+        "name": "CornerShelvesTMP",
+        "objects": [
+          {
+            "objectid": 2,
+            "name": "CornerShelvesTMP",
+            "objects": [
+              {
+                "objectid": 3,
+                "name": "Bottom"
+              },
+              {
+                "objectid": 4,
+                "name": "RightSide"
+              },
+              {
+                "objectid": 5,
+                "name": "Middle"
+              },
+              {
+                "objectid": 6,
+                "name": "LeftSide"
+              },
+              {
+                "objectid": 7,
+                "name": "Top"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

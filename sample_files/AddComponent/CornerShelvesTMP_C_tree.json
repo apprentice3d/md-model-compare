@@ -1,0 +1,51 @@
+{
+  "data": {
+    "type": "objects",
+    "objects": [
+      {
+        "objectid": 1,
+        "name": "CornerShelvesTMP",
+        "objects": [
+          {
+            "objectid": 2,
+            "name": "CornerShelvesTMP",
+            "objects": [
+              {
+                "objectid": 3,
+                "name": "Shelves:1",
+                "objects": [
+                  {
+                    "objectid": 4,
+                    "name": "Middle"
+                  },
+                  {
+                    "objectid": 5,
+                    "name": "Top"
+                  }
+                ]
+              },
+              {
+                "objectid": 6,
+                "name": "Sides:1",
+                "objects": [
+                  {
+                    "objectid": 7,
+                    "name": "LeftSide"
+                  },
+                  {
+                    "objectid": 8,
+                    "name": "RightSide"
+                  },
+                  {
+                    "objectid": 9,
+                    "name": "RightSide2"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
